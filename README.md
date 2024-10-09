@@ -8,5 +8,7 @@ were derived from the evaluated and validated energy levels are usually called M
 
 ## What is MARVEL?
 
+
 | Molecule | Versions | Link to recommended verion |
-| H216O | - PART III - W2020 - W2024 | [a link](https://github.com/user/repo/blob/branch/other_file.md)
+| ------------- | ------------- |------------- |
+| H216O | <ul><li>PART III</li><li>W2020</li><li>W2024</li></ul> | [W2024](https://github.com/furtibu/MARVEL/tree/main/H2O/H216O/W2024)
