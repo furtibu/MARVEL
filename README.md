@@ -1,4 +1,4 @@
-What is MARVEL?
+# What is MARVEL?
 
 The acronym MARVEL stands for Measured Active Rotational-Vibrational Energy Levels. MARVEL is based on the concept of spectroscopic networks. The code MARVEL is written in C++ and it is designed for 
 critically evaluating and validating experimental transition wavenumbers and uncertainties collected from the literature as well as for inverting the wavenumber information in order to obtain the best 
