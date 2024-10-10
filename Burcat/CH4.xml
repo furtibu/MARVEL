@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<specie CAS="74-82-8">
+    <formula_name_structure>
+       <formula_name_structure_1>CH4 METHANE</formula_name_structure_1>
+    </formula_name_structure>
+    <sigma>
+       <sigma_1>12</sigma_1>
+    </sigma>
+    <statwt>
+       <statwt_1>1</statwt_1>
+    </statwt>
+    <ia_ib_ic>
+       <ia_ib_ic_1>0.52410356</ia_ib_ic_1>
+    </ia_ib_ic>
+    <nu>
+       <nu_1>2916.7,1533.295(2), 3019.491(3),1310.756(3)     ,</nu_1>
+    </nu>
+    <x>
+       <x_1>X11=-26</x_1>
+       <x_2>X12=-3</x_2>
+       <x_3>X13=-75</x_3>
+       <x_4>X14=-4</x_4>
+       <x_5>X22=-.4</x_5>
+       <x_6>X23=-9</x_6>
+       <x_7>X24=-20</x_7>
+       <x_8>X33=-17</x_8>
+       <x_9>X34=-17</x_9>
+       <x_10>X44=-11</x_10>
+    </x>
+    <reference>
+       <reference_1>TSIV 91 .</reference_1>
+    </reference>
+    <hf0>
+       <hf0_1>66.63 KJ</hf0_1>
+    </hf0>
+    <hf298>
+       <hf298_1>-74.6+/-0.3 KJ</hf298_1>
+    </hf298>
+    <max_lst_sq_error>
+       <max_lst_sq_error_1>CP @ 1300K 0.54%</max_lst_sq_error_1>
+    </max_lst_sq_error>
+<phase>
+  <formula>CH4   ANHARMONIC</formula>
+  <source>g</source>
+  <date>8/99</date>
+  <elements>
+    <element name="C" num_of_atoms="1"/>
+    <element name="H" num_of_atoms="4"/>
+  </elements>
+  <phase>G</phase>
+  <temp_limit low="200.000" high="6000.000"/>
+  <calc_quality>B</calc_quality>
+  <molecular_weight>16.04246</molecular_weight>
+  <coefficients>
+    <range_1000_to_Tmax>
+      <coef name="a1">1.65326226E+00</coef>
+      <coef name="a2">1.00263099E-02</coef>
+      <coef name="a3">-3.31661238E-06</coef>
+      <coef name="a4">5.36483138E-10</coef>
+      <coef name="a5">-3.14696758E-14</coef>
+      <coef name="a6">-1.00095936E+04</coef>
+      <coef name="a7">9.90506283E+00</coef>
+    </range_1000_to_Tmax>
+    <range_Tmin_to_1000>
+      <coef name="a1">5.14911468E+00</coef>
+      <coef name="a2">-1.36622009E-02</coef>
+      <coef name="a3">4.91453921E-05</coef>
+      <coef name="a4">-4.84246767E-08</coef>
+      <coef name="a5">1.66603441E-11</coef>
+      <coef name="a6">-1.02465983E+04</coef>
+      <coef name="a7">-4.63848842E+00</coef>
+    </range_Tmin_to_1000>
+    <hf298_div_r>-8.97226656E+03</hf298_div_r>
+  </coefficients>
+</phase>
+</specie>
+</xml>
